@@ -1,2 +1,2 @@
-# Loquendo
+# Loquendo/TTS
 spanish version
