@@ -1,0 +1,2 @@
+# Loquendo
+spanish version
